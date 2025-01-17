@@ -2,4 +2,4 @@
 
 This is my 3rd Git Repository
 
-Author - Mohit Maneshwar
+Author - Mohit
